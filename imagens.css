@@ -1,0 +1,10 @@
+img{
+    width: 300px;
+    aspect-ratio: 16/9;/* 4/3 */
+    
+    transition: 1s;
+}
+img:hover{
+    width: 482px;
+    transition: 1s;
+}
